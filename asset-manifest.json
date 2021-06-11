@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Traveling-app/static/css/main.b9f0aea5.chunk.css",
+    "main.js": "/Traveling-app/static/js/main.76c764b8.chunk.js",
+    "main.js.map": "/Traveling-app/static/js/main.76c764b8.chunk.js.map",
+    "runtime-main.js": "/Traveling-app/static/js/runtime-main.4e656820.js",
+    "runtime-main.js.map": "/Traveling-app/static/js/runtime-main.4e656820.js.map",
+    "static/js/2.d259707b.chunk.js": "/Traveling-app/static/js/2.d259707b.chunk.js",
+    "static/js/2.d259707b.chunk.js.map": "/Traveling-app/static/js/2.d259707b.chunk.js.map",
+    "static/js/3.e210a2f5.chunk.js": "/Traveling-app/static/js/3.e210a2f5.chunk.js",
+    "static/js/3.e210a2f5.chunk.js.map": "/Traveling-app/static/js/3.e210a2f5.chunk.js.map",
+    "index.html": "/Traveling-app/index.html",
+    "static/css/main.b9f0aea5.chunk.css.map": "/Traveling-app/static/css/main.b9f0aea5.chunk.css.map",
+    "static/js/2.d259707b.chunk.js.LICENSE.txt": "/Traveling-app/static/js/2.d259707b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Traveling-app/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e656820.js",
+    "static/js/2.d259707b.chunk.js",
+    "static/css/main.b9f0aea5.chunk.css",
+    "static/js/main.76c764b8.chunk.js"
+  ]
+}
